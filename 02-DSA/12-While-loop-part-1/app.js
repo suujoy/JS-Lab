@@ -27,3 +27,6 @@ while (c > 0) {
     c=Math.floor(c/10)
 }
 console.log(digit)
+
+
+console.log('sorry')
